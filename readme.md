@@ -1,5 +1,5 @@
 #Ruby on the Web
-Projects completed as part of <a href="http://www.theodinproject.com/ruby-programming/ruby-on-the-web">The Odin Project.</a
+Projects completed as part of <a href="http://www.theodinproject.com/ruby-programming/ruby-on-the-web">The Odin Project.</a>
 
 #Project 1: Twitter Spambot
 <a href="http://tutorials.jumpstartlab.com/projects/microblogger.html">Do this project/tutorial from Jumpstart Lab<a>. It will take you through how to authenticate with Twitter and start tweeting.
